@@ -2,8 +2,9 @@
 
 - Personalausweis Generator Deutschland (Germany)
 
-Einfach die 4 Felder nach Belieben anpassen. Auf die Authority wird meistenst nicht gecheckt, daher sollte auch ABCD funktionieren.
-Falls nicht muss man sich einen validen Code raussuchen. Alles andere sollte selbsterklärend sein.
+Einfach die 4 Felder nach Belieben anpassen. Die Authority muss nicht valide sein um einen Test zu bestehen, daher sollte auch ABCD funktionieren.
+Es sollte genug Quellen geben, die Authority nachzulesen (u.a. den eigenen Perso). Alles andere sollte selbsterklärend sein.
+Zu reinen Darstellungszwecken und zum Testen!
 
 ```
 auth='ABCD'                          # Authority
